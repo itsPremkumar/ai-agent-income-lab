@@ -1,5 +1,7 @@
 {
   "slugs": [
-    "ai-agent-roi-calculator"
+    "ai-agent-roi-calculator",
+    "n8n-starter-workflow-pack",
+    "agent-consulting-proposal-template"
   ]
 }
