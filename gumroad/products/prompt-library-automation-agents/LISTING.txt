@@ -1,0 +1,6 @@
+Title: 200-Prompt Library for Automation Agents
+Price: $19
+Description: Copy-paste prompts for classifying, routing, and replying across support, sales, and ops agents.
+
+Upload this folder's PRODUCT.md as the product file on Gumroad (free).
+Set the price above. You keep 100% minus Gumroad's standard fee.
